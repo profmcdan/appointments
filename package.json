@@ -1,0 +1,14 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "stylist appointment application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ale daniel",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
