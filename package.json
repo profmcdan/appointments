@@ -4,7 +4,7 @@
   "description": "stylist appointment application",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "author": "ale daniel",
   "license": "ISC",
